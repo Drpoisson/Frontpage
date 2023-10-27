@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(245, 248, 248);
+    font-style: normal;
+    color: rgb(30,30,30)
+}
+div.container {
+    margin: 100px;
+    text-align: 300px, 300px, 300px,0px;
+}
+div.banner {
+    background-image: url(livre.png); 
+    background-size: cover; 
+}
+h1, h2 {
+    margin: 100px;
+}
+a {
+    margin: 100px;
+    color:blue
+}
